@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html lang="en" class="dark">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>GolfCartLFPIndex — 36V/48V/72V Golf Cart LiFePO4 Range, BMS & MPH Speed Calculator (2026)</title>
+  <meta name="description" content="Calculate exact 36V, 48V, and 72V LiFePO4 golf cart battery range, BMS continuous/peak surge amp sizing for 400A-600A controllers, and tire/axle MPH speed for Club Car, EZGO, Yamaha, and Icon carts.">
+  <link rel="canonical" href="https://hanifsalman11.github.io/golf-cart-index/">
+  <link rel="alternate" type="application/rss+xml" title="GolfCartLFPIndex RSS Feed" href="https://hanifsalman11.github.io/golf-cart-index/rss.xml">
+  <script src="https://cdn.tailwindcss.com"></script>
+</head>
+<body class="bg-slate-950 text-slate-100 min-h-screen flex flex-col">
+  <header class="border-b border-slate-800 bg-slate-900/80 sticky top-0 z-30 backdrop-blur">
+    <div class="max-w-5xl mx-auto px-4 py-3.5 flex items-center justify-between">
+      <div class="text-lg font-black text-white flex items-center gap-2">
+        <span class="bg-emerald-500 text-slate-950 px-2 py-0.5 rounded font-black">GOLFCART</span>LFPIndex
+      </div>
+      <a href="https://www.amazon.com/s?k=48V%2B105Ah%2B100Ah%2BLiFePO4%2BGolf%2BCart%2BBattery%2BKit%2BCharger%2B200A%2BBMS&tag=salmanrevie04-20" target="_blank" rel="nofollow sponsored" class="text-xs sm:text-sm bg-emerald-500 hover:bg-emerald-400 text-slate-950 font-extrabold px-3.5 py-2 rounded-lg transition">
+        Shop Golf Cart LiFePO4 Battery Kits & Upgrades on Amazon →
+      </a>
+    </div>
+  </header>
+
+  <main class="max-w-5xl mx-auto px-4 py-12 flex-1 w-full">
+    <div class="text-center max-w-2xl mx-auto mb-10">
+      <h1 class="text-3xl sm:text-5xl font-black text-white tracking-tight">Golf Cart LiFePO4 Battery Range, BMS Amp & MPH Speed Database</h1>
+      <p class="text-slate-400 mt-3 text-base sm:text-lg">Select your Club Car, EZGO, or Yamaha golf cart setup below to calculate LiFePO4 driving range after shedding 285 lbs of lead-acid weight, BMS surge amps for 400A–600A controllers, and tire/gear MPH speed.</p>
+      <div class="mt-6">
+        <input id="filterInput" type="text" placeholder="Search golf cart or battery (e.g. Club Car Precedent, EZGO TXT, Yamaha G29, 48V 105Ah, Navitas 600A, 23 Inch Tires...)" class="w-full bg-slate-900 border border-slate-700 rounded-xl px-4 py-3.5 text-sm text-white focus:outline-none focus:border-emerald-500">
+      </div>
+    </div>
+
+    <div id="cartGrid" class="grid sm:grid-cols-2 lg:grid-cols-3 gap-5">
+        <a href="club-car-ds-36v-to-48v-lithium-high-speed-motor-conversion-range-mph-calculator.html" class="block bg-slate-900 border border-slate-800 hover:border-emerald-500/60 rounded-xl p-5 transition group">
+          <div class="flex items-center justify-between mb-2">
+            <span class="text-xs font-black uppercase bg-emerald-500 text-slate-950 px-2.5 py-0.5 rounded">48V 105Ah (~42 Mi)</span>
+            <span class="text-xs text-slate-400">25.6 MPH | 200A BMS</span>
+          </div>
+          <h2 class="text-base font-bold text-white group-hover:text-emerald-400 transition">Club Car DS 36V to 48V Lithium & High-Speed Motor Conversion</h2>
+          <p class="text-xs text-slate-400 mt-2 line-clamp-2">Calculate exact LiFePO4 driving range (42 miles on 5,376 Wh), top speed (25.6 MPH w/ 22" tires), 200A/460A BMS sizing, and 285-lb weight drop for Club Car DS 36V to 48V Lithium & High-Speed Motor Conversion.</p>
+          <span class="inline-block mt-4 text-xs font-extrabold text-emerald-400">Calculate Range, BMS & Tire MPH →</span>
+        </a>
+        <a href="club-car-ds-48v-100ah-drop-in-lithium-battery-upgrade-range-mph-calculator.html" class="block bg-slate-900 border border-slate-800 hover:border-emerald-500/60 rounded-xl p-5 transition group">
+          <div class="flex items-center justify-between mb-2">
+            <span class="text-xs font-black uppercase bg-emerald-500 text-slate-950 px-2.5 py-0.5 rounded">48V 100Ah (~47 Mi)</span>
+            <span class="text-xs text-slate-400">19.4 MPH | 150A BMS</span>
+          </div>
+          <h2 class="text-base font-bold text-white group-hover:text-emerald-400 transition">Club Car DS 48V 100Ah Drop-In Lithium Battery Upgrade</h2>
+          <p class="text-xs text-slate-400 mt-2 line-clamp-2">Calculate exact LiFePO4 driving range (47 miles on 5,120 Wh), top speed (19.4 MPH w/ 20" tires), 150A/350A BMS sizing, and 285-lb weight drop for Club Car DS 48V 100Ah Drop-In Lithium Battery Upgrade.</p>
+          <span class="inline-block mt-4 text-xs font-extrabold text-emerald-400">Calculate Range, BMS & Tire MPH →</span>
+        </a>
+        <a href="club-car-precedent-48v-105ah-lifepo4-conversion-range-mph-calculator.html" class="block bg-slate-900 border border-slate-800 hover:border-emerald-500/60 rounded-xl p-5 transition group">
+          <div class="flex items-center justify-between mb-2">
+            <span class="text-xs font-black uppercase bg-emerald-500 text-slate-950 px-2.5 py-0.5 rounded">48V 105Ah (~49 Mi)</span>
+            <span class="text-xs text-slate-400">20.1 MPH | 200A BMS</span>
+          </div>
+          <h2 class="text-base font-bold text-white group-hover:text-emerald-400 transition">Club Car Precedent 48V 105Ah LiFePO4 Conversion</h2>
+          <p class="text-xs text-slate-400 mt-2 line-clamp-2">Calculate exact LiFePO4 driving range (49 miles on 5,376 Wh), top speed (20.1 MPH w/ 20" tires), 200A/400A BMS sizing, and 285-lb weight drop for Club Car Precedent 48V 105Ah LiFePO4 Conversion.</p>
+          <span class="inline-block mt-4 text-xs font-extrabold text-emerald-400">Calculate Range, BMS & Tire MPH →</span>
+        </a></div>
+  </main>
+
+  <footer class="border-t border-slate-800 py-8 text-center text-xs text-slate-500">
+    <p>© 2026 GolfCartLFPIndex. As an Amazon Associate, we earn from qualifying purchases.</p>
+  </footer>
+
+  <script>
+    const filterInput = document.getElementById('filterInput');
+    const cards = Array.from(document.getElementById('cartGrid').children);
+    filterInput.addEventListener('input', (e) => {
+      const q = e.target.value.toLowerCase();
+      cards.forEach(c => {
+        c.style.display = c.textContent.toLowerCase().includes(q) ? 'block' : 'none';
+      });
+    });
+  </script>
+</body>
+</html>

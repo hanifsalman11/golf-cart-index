@@ -1,1 +1,38 @@
-[]
+[
+  {
+    "cart_name": "Club Car Precedent 48V 105Ah LiFePO4 Conversion",
+    "slug": "club-car-precedent-48v-105ah-lifepo4-conversion-range-mph-calculator",
+    "title": "Club Car Precedent 48V 105Ah LiFePO4 Conversion Range, BMS Amps & MPH Speed Calculator (2026)",
+    "description": "Calculate exact LiFePO4 driving range (49 miles on 5,376 Wh), top speed (20.1 MPH w/ 20\" tires), 200A/400A BMS sizing, and 285-lb weight drop for Club Car Precedent 48V 105Ah LiFePO4 Conversion.",
+    "volts": 48,
+    "ah": 105,
+    "miles": 49,
+    "mph": 20.1,
+    "bms_c": 200,
+    "date": "2026-11-10"
+  },
+  {
+    "cart_name": "Club Car DS 48V 100Ah Drop-In Lithium Battery Upgrade",
+    "slug": "club-car-ds-48v-100ah-drop-in-lithium-battery-upgrade-range-mph-calculator",
+    "title": "Club Car DS 48V 100Ah Drop-In Lithium Battery Upgrade Range, BMS Amps & MPH Speed Calculator (2026)",
+    "description": "Calculate exact LiFePO4 driving range (47 miles on 5,120 Wh), top speed (19.4 MPH w/ 20\" tires), 150A/350A BMS sizing, and 285-lb weight drop for Club Car DS 48V 100Ah Drop-In Lithium Battery Upgrade.",
+    "volts": 48,
+    "ah": 100,
+    "miles": 47,
+    "mph": 19.4,
+    "bms_c": 150,
+    "date": "2026-11-10"
+  },
+  {
+    "cart_name": "Club Car DS 36V to 48V Lithium & High-Speed Motor Conversion",
+    "slug": "club-car-ds-36v-to-48v-lithium-high-speed-motor-conversion-range-mph-calculator",
+    "title": "Club Car DS 36V to 48V Lithium & High-Speed Motor Conversion Range, BMS Amps & MPH Speed Calculator (2026)",
+    "description": "Calculate exact LiFePO4 driving range (42 miles on 5,376 Wh), top speed (25.6 MPH w/ 22\" tires), 200A/460A BMS sizing, and 285-lb weight drop for Club Car DS 36V to 48V Lithium & High-Speed Motor Conversion.",
+    "volts": 48,
+    "ah": 105,
+    "miles": 42,
+    "mph": 25.6,
+    "bms_c": 200,
+    "date": "2026-11-10"
+  }
+]
