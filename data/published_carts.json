@@ -70,5 +70,41 @@
     "mph": 16.8,
     "bms_c": 150,
     "date": "2026-11-10"
+  },
+  {
+    "cart_name": "EZGO TXT 36V to 48V Navitas 440A / 600A AC Conversion",
+    "slug": "ezgo-txt-36v-to-48v-navitas-440a-600a-ac-conversion-range-mph-calculator",
+    "title": "EZGO TXT 36V to 48V Navitas 440A / 600A AC Conversion Range, BMS Amps & MPH Speed Calculator (2026)",
+    "description": "Calculate exact LiFePO4 driving range (42 miles on 5,376 Wh), top speed (28.4 MPH w/ 22\" tires), 250A/690A BMS sizing, and 285-lb weight drop for EZGO TXT 36V to 48V Navitas 440A / 600A AC Conversion.",
+    "volts": 48,
+    "ah": 105,
+    "miles": 42,
+    "mph": 28.4,
+    "bms_c": 250,
+    "date": "2026-11-10"
+  },
+  {
+    "cart_name": "EZGO RXV 48V AC-Drive 105Ah LiFePO4 Conversion (200A BMS)",
+    "slug": "ezgo-rxv-48v-ac-drive-105ah-lifepo4-conversion-200a-bms-range-mph-calculator",
+    "title": "EZGO RXV 48V AC-Drive 105Ah LiFePO4 Conversion (200A BMS) Range, BMS Amps & MPH Speed Calculator (2026)",
+    "description": "Calculate exact LiFePO4 driving range (49 miles on 5,376 Wh), top speed (25.5 MPH w/ 20.5\" tires), 200A/520A BMS sizing, and 285-lb weight drop for EZGO RXV 48V AC-Drive 105Ah LiFePO4 Conversion (200A BMS).",
+    "volts": 48,
+    "ah": 105,
+    "miles": 49,
+    "mph": 25.5,
+    "bms_c": 200,
+    "date": "2026-11-10"
+  },
+  {
+    "cart_name": "EZGO Marathon 36V 100Ah Lithium & Solenoid Upgrade",
+    "slug": "ezgo-marathon-36v-100ah-lithium-solenoid-upgrade-range-mph-calculator",
+    "title": "EZGO Marathon 36V 100Ah Lithium & Solenoid Upgrade Range, BMS Amps & MPH Speed Calculator (2026)",
+    "description": "Calculate exact LiFePO4 driving range (35 miles on 3,840 Wh), top speed (16.1 MPH w/ 18\" tires), 150A/350A BMS sizing, and 245-lb weight drop for EZGO Marathon 36V 100Ah Lithium & Solenoid Upgrade.",
+    "volts": 36,
+    "ah": 100,
+    "miles": 35,
+    "mph": 16.1,
+    "bms_c": 150,
+    "date": "2026-11-10"
   }
 ]
