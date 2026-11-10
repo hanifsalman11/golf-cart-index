@@ -34,5 +34,41 @@
     "mph": 25.6,
     "bms_c": 200,
     "date": "2026-11-10"
+  },
+  {
+    "cart_name": "Club Car Onward & Tempo 48V Lifted (23\" Tires) 105Ah Setup",
+    "slug": "club-car-onward-tempo-48v-lifted-23-tires-105ah-setup-range-mph-calculator",
+    "title": "Club Car Onward & Tempo 48V Lifted (23\" Tires) 105Ah Setup Range, BMS Amps & MPH Speed Calculator (2026)",
+    "description": "Calculate exact LiFePO4 driving range (42 miles on 5,376 Wh), top speed (27.0 MPH w/ 23\" tires), 250A/580A BMS sizing, and 285-lb weight drop for Club Car Onward & Tempo 48V Lifted (23\" Tires) 105Ah Setup.",
+    "volts": 48,
+    "ah": 105,
+    "miles": 42,
+    "mph": 27.0,
+    "bms_c": 250,
+    "date": "2026-11-10"
+  },
+  {
+    "cart_name": "EZGO TXT 48V 105Ah LiFePO4 Lithium Battery Conversion",
+    "slug": "ezgo-txt-48v-105ah-lifepo4-lithium-battery-conversion-range-mph-calculator",
+    "title": "EZGO TXT 48V 105Ah LiFePO4 Lithium Battery Conversion Range, BMS Amps & MPH Speed Calculator (2026)",
+    "description": "Calculate exact LiFePO4 driving range (49 miles on 5,376 Wh), top speed (19.6 MPH w/ 20\" tires), 200A/400A BMS sizing, and 285-lb weight drop for EZGO TXT 48V 105Ah LiFePO4 Lithium Battery Conversion.",
+    "volts": 48,
+    "ah": 105,
+    "miles": 49,
+    "mph": 19.6,
+    "bms_c": 200,
+    "date": "2026-11-10"
+  },
+  {
+    "cart_name": "EZGO TXT 36V 100Ah LiFePO4 Drop-In Battery Conversion",
+    "slug": "ezgo-txt-36v-100ah-lifepo4-drop-in-battery-conversion-range-mph-calculator",
+    "title": "EZGO TXT 36V 100Ah LiFePO4 Drop-In Battery Conversion Range, BMS Amps & MPH Speed Calculator (2026)",
+    "description": "Calculate exact LiFePO4 driving range (35 miles on 3,840 Wh), top speed (16.8 MPH w/ 18.5\" tires), 150A/350A BMS sizing, and 245-lb weight drop for EZGO TXT 36V 100Ah LiFePO4 Drop-In Battery Conversion.",
+    "volts": 36,
+    "ah": 100,
+    "miles": 35,
+    "mph": 16.8,
+    "bms_c": 150,
+    "date": "2026-11-10"
   }
 ]
