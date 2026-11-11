@@ -142,5 +142,41 @@
     "mph": 19.1,
     "bms_c": 150,
     "date": "2026-11-11"
+  },
+  {
+    "cart_name": "Icon i20 / i40 / i60 48V 105Ah LiFePO4 Battery Upgrade",
+    "slug": "icon-i20-i40-i60-48v-105ah-lifepo4-battery-upgrade-range-mph-calculator",
+    "title": "Icon i20 / i40 / i60 48V 105Ah LiFePO4 Battery Upgrade Range, BMS Amps & MPH Speed Calculator (2026)",
+    "description": "Calculate exact LiFePO4 driving range (49 miles on 5,376 Wh), top speed (26.0 MPH w/ 21.5\" tires), 200A/520A BMS sizing, and 285-lb weight drop for Icon i20 / i40 / i60 48V 105Ah LiFePO4 Battery Upgrade.",
+    "volts": 48,
+    "ah": 105,
+    "miles": 49,
+    "mph": 26.0,
+    "bms_c": 200,
+    "date": "2026-11-11"
+  },
+  {
+    "cart_name": "Vatrer 48V 105Ah LiFePO4 (200A BMS) Range & Speed Sizing",
+    "slug": "vatrer-48v-105ah-lifepo4-200a-bms-range-speed-sizing-range-mph-calculator",
+    "title": "Vatrer 48V 105Ah LiFePO4 (200A BMS) Range & Speed Sizing Range, BMS Amps & MPH Speed Calculator (2026)",
+    "description": "Calculate exact LiFePO4 driving range (49 miles on 5,376 Wh), top speed (22.1 MPH w/ 20.5\" tires), 200A/460A BMS sizing, and 285-lb weight drop for Vatrer 48V 105Ah LiFePO4 (200A BMS) Range & Speed Sizing.",
+    "volts": 48,
+    "ah": 105,
+    "miles": 49,
+    "mph": 22.1,
+    "bms_c": 200,
+    "date": "2026-11-11"
+  },
+  {
+    "cart_name": "Chins / Lossigy 48V 100Ah LiFePO4 Golf Cart Battery Sizing",
+    "slug": "chins-lossigy-48v-100ah-lifepo4-golf-cart-battery-sizing-range-mph-calculator",
+    "title": "Chins / Lossigy 48V 100Ah LiFePO4 Golf Cart Battery Sizing Range, BMS Amps & MPH Speed Calculator (2026)",
+    "description": "Calculate exact LiFePO4 driving range (47 miles on 5,120 Wh), top speed (20.1 MPH w/ 20\" tires), 200A/400A BMS sizing, and 285-lb weight drop for Chins / Lossigy 48V 100Ah LiFePO4 Golf Cart Battery Sizing.",
+    "volts": 48,
+    "ah": 100,
+    "miles": 47,
+    "mph": 20.1,
+    "bms_c": 200,
+    "date": "2026-11-11"
   }
 ]
