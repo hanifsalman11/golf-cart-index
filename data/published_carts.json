@@ -106,5 +106,41 @@
     "mph": 16.1,
     "bms_c": 150,
     "date": "2026-11-10"
+  },
+  {
+    "cart_name": "Yamaha Drive (G29) 48V 105Ah LiFePO4 Lithium Conversion",
+    "slug": "yamaha-drive-g29-48v-105ah-lifepo4-lithium-conversion-range-mph-calculator",
+    "title": "Yamaha Drive (G29) 48V 105Ah LiFePO4 Lithium Conversion Range, BMS Amps & MPH Speed Calculator (2026)",
+    "description": "Calculate exact LiFePO4 driving range (49 miles on 5,376 Wh), top speed (20.0 MPH w/ 20\" tires), 200A/400A BMS sizing, and 285-lb weight drop for Yamaha Drive (G29) 48V 105Ah LiFePO4 Lithium Conversion.",
+    "volts": 48,
+    "ah": 105,
+    "miles": 49,
+    "mph": 20.0,
+    "bms_c": 200,
+    "date": "2026-11-11"
+  },
+  {
+    "cart_name": "Yamaha Drive2 48V AC-Drive 105Ah LiFePO4 Battery Setup",
+    "slug": "yamaha-drive2-48v-ac-drive-105ah-lifepo4-battery-setup-range-mph-calculator",
+    "title": "Yamaha Drive2 48V AC-Drive 105Ah LiFePO4 Battery Setup Range, BMS Amps & MPH Speed Calculator (2026)",
+    "description": "Calculate exact LiFePO4 driving range (49 miles on 5,376 Wh), top speed (23.4 MPH w/ 20.5\" tires), 200A/460A BMS sizing, and 285-lb weight drop for Yamaha Drive2 48V AC-Drive 105Ah LiFePO4 Battery Setup.",
+    "volts": 48,
+    "ah": 105,
+    "miles": 49,
+    "mph": 23.4,
+    "bms_c": 200,
+    "date": "2026-11-11"
+  },
+  {
+    "cart_name": "Yamaha G19 & G22 48V 100Ah LiFePO4 Drop-In Conversion",
+    "slug": "yamaha-g19-g22-48v-100ah-lifepo4-drop-in-conversion-range-mph-calculator",
+    "title": "Yamaha G19 & G22 48V 100Ah LiFePO4 Drop-In Conversion Range, BMS Amps & MPH Speed Calculator (2026)",
+    "description": "Calculate exact LiFePO4 driving range (47 miles on 5,120 Wh), top speed (19.1 MPH w/ 20\" tires), 150A/350A BMS sizing, and 285-lb weight drop for Yamaha G19 & G22 48V 100Ah LiFePO4 Drop-In Conversion.",
+    "volts": 48,
+    "ah": 100,
+    "miles": 47,
+    "mph": 19.1,
+    "bms_c": 150,
+    "date": "2026-11-11"
   }
 ]
