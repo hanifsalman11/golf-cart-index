@@ -178,5 +178,41 @@
     "mph": 20.1,
     "bms_c": 200,
     "date": "2026-11-11"
+  },
+  {
+    "cart_name": "Eco-Worthy & LiTime 48V 100Ah Golf Cart Lithium Sizing",
+    "slug": "eco-worthy-litime-48v-100ah-golf-cart-lithium-sizing-range-mph-calculator",
+    "title": "Eco-Worthy & LiTime 48V 100Ah Golf Cart Lithium Sizing Range, BMS Amps & MPH Speed Calculator (2026)",
+    "description": "Calculate exact LiFePO4 driving range (47 miles on 5,120 Wh), top speed (20.1 MPH w/ 20\" tires), 200A/400A BMS sizing, and 285-lb weight drop for Eco-Worthy & LiTime 48V 100Ah Golf Cart Lithium Sizing.",
+    "volts": 48,
+    "ah": 100,
+    "miles": 47,
+    "mph": 20.1,
+    "bms_c": 200,
+    "date": "2026-11-12"
+  },
+  {
+    "cart_name": "Epoch & Allied 48V 105Ah High-Output 250A BMS Cart Setup",
+    "slug": "epoch-allied-48v-105ah-high-output-250a-bms-cart-setup-range-mph-calculator",
+    "title": "Epoch & Allied 48V 105Ah High-Output 250A BMS Cart Setup Range, BMS Amps & MPH Speed Calculator (2026)",
+    "description": "Calculate exact LiFePO4 driving range (42 miles on 5,376 Wh), top speed (29.7 MPH w/ 23\" tires), 250A/690A BMS sizing, and 285-lb weight drop for Epoch & Allied 48V 105Ah High-Output 250A BMS Cart Setup.",
+    "volts": 48,
+    "ah": 105,
+    "miles": 42,
+    "mph": 29.7,
+    "bms_c": 250,
+    "date": "2026-11-12"
+  },
+  {
+    "cart_name": "Navitas 600A 5kW AC Conversion Kit Battery & BMS Sizing",
+    "slug": "navitas-600a-5kw-ac-conversion-kit-battery-bms-sizing-range-mph-calculator",
+    "title": "Navitas 600A 5kW AC Conversion Kit Battery & BMS Sizing Range, BMS Amps & MPH Speed Calculator (2026)",
+    "description": "Calculate exact LiFePO4 driving range (42 miles on 5,376 Wh), top speed (31.9 MPH w/ 23\" tires), 250A/690A BMS sizing, and 285-lb weight drop for Navitas 600A 5kW AC Conversion Kit Battery & BMS Sizing.",
+    "volts": 48,
+    "ah": 105,
+    "miles": 42,
+    "mph": 31.9,
+    "bms_c": 250,
+    "date": "2026-11-12"
   }
 ]
