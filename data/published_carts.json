@@ -214,5 +214,41 @@
     "mph": 31.9,
     "bms_c": 250,
     "date": "2026-11-12"
+  },
+  {
+    "cart_name": "Navitas 440A DC-to-AC Golf Cart Controller & BMS Sizing",
+    "slug": "navitas-440a-dc-to-ac-golf-cart-controller-bms-sizing-range-mph-calculator",
+    "title": "Navitas 440A DC-to-AC Golf Cart Controller & BMS Sizing Range, BMS Amps & MPH Speed Calculator (2026)",
+    "description": "Calculate exact LiFePO4 driving range (42 miles on 5,376 Wh), top speed (26.3 MPH w/ 22\" tires), 200A/510A BMS sizing, and 285-lb weight drop for Navitas 440A DC-to-AC Golf Cart Controller & BMS Sizing.",
+    "volts": 48,
+    "ah": 105,
+    "miles": 42,
+    "mph": 26.3,
+    "bms_c": 200,
+    "date": "2026-11-12"
+  },
+  {
+    "cart_name": "Alltrax XCT-400 & SR-48400 (400A) Controller Cable & BMS",
+    "slug": "alltrax-xct-400-sr-48400-400a-controller-cable-bms-range-mph-calculator",
+    "title": "Alltrax XCT-400 & SR-48400 (400A) Controller Cable & BMS Range, BMS Amps & MPH Speed Calculator (2026)",
+    "description": "Calculate exact LiFePO4 driving range (42 miles on 5,376 Wh), top speed (24.2 MPH w/ 22\" tires), 200A/460A BMS sizing, and 285-lb weight drop for Alltrax XCT-400 & SR-48400 (400A) Controller Cable & BMS.",
+    "volts": 48,
+    "ah": 105,
+    "miles": 42,
+    "mph": 24.2,
+    "bms_c": 200,
+    "date": "2026-11-12"
+  },
+  {
+    "cart_name": "Curtis 1268 / 1510SepEx 400A–500A Controller Upgrade",
+    "slug": "curtis-1268-1510sepex-400a500a-controller-upgrade-range-mph-calculator",
+    "title": "Curtis 1268 / 1510SepEx 400A–500A Controller Upgrade Range, BMS Amps & MPH Speed Calculator (2026)",
+    "description": "Calculate exact LiFePO4 driving range (42 miles on 5,376 Wh), top speed (25.3 MPH w/ 22\" tires), 250A/580A BMS sizing, and 285-lb weight drop for Curtis 1268 / 1510SepEx 400A–500A Controller Upgrade.",
+    "volts": 48,
+    "ah": 105,
+    "miles": 42,
+    "mph": 25.3,
+    "bms_c": 250,
+    "date": "2026-11-12"
   }
 ]
