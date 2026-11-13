@@ -286,5 +286,41 @@
     "mph": 25.3,
     "bms_c": 250,
     "date": "2026-11-13"
+  },
+  {
+    "cart_name": "23-Inch vs 20-Inch vs 18-Inch Golf Cart Tire Speed & Torque",
+    "slug": "23-inch-vs-20-inch-vs-18-inch-golf-cart-tire-speed-torque-range-mph-calculator",
+    "title": "23-Inch vs 20-Inch vs 18-Inch Golf Cart Tire Speed & Torque Range, BMS Amps & MPH Speed Calculator (2026)",
+    "description": "Calculate exact LiFePO4 driving range (42 miles on 5,376 Wh), top speed (24.8 MPH w/ 23\" tires), 200A/460A BMS sizing, and 285-lb weight drop for 23-Inch vs 20-Inch vs 18-Inch Golf Cart Tire Speed & Torque.",
+    "volts": 48,
+    "ah": 105,
+    "miles": 42,
+    "mph": 24.8,
+    "bms_c": 200,
+    "date": "2026-11-13"
+  },
+  {
+    "cart_name": "8:1 High-Speed Gears vs 12.44:1 Stock Axle Ratio MPH",
+    "slug": "81-high-speed-gears-vs-12441-stock-axle-ratio-mph-range-mph-calculator",
+    "title": "8:1 High-Speed Gears vs 12.44:1 Stock Axle Ratio MPH Range, BMS Amps & MPH Speed Calculator (2026)",
+    "description": "Calculate exact LiFePO4 driving range (42 miles on 5,376 Wh), top speed (36.8 MPH w/ 22\" tires), 200A/520A BMS sizing, and 285-lb weight drop for 8:1 High-Speed Gears vs 12.44:1 Stock Axle Ratio MPH.",
+    "volts": 48,
+    "ah": 105,
+    "miles": 42,
+    "mph": 36.8,
+    "bms_c": 200,
+    "date": "2026-11-13"
+  },
+  {
+    "cart_name": "6x 8V Trojan T-875 Lead-Acid to Single 48V 105Ah LiFePO4",
+    "slug": "6x-8v-trojan-t-875-lead-acid-to-single-48v-105ah-lifepo4-range-mph-calculator",
+    "title": "6x 8V Trojan T-875 Lead-Acid to Single 48V 105Ah LiFePO4 Range, BMS Amps & MPH Speed Calculator (2026)",
+    "description": "Calculate exact LiFePO4 driving range (49 miles on 5,376 Wh), top speed (20.1 MPH w/ 20\" tires), 200A/400A BMS sizing, and 285-lb weight drop for 6x 8V Trojan T-875 Lead-Acid to Single 48V 105Ah LiFePO4.",
+    "volts": 48,
+    "ah": 105,
+    "miles": 49,
+    "mph": 20.1,
+    "bms_c": 200,
+    "date": "2026-11-13"
   }
 ]
