@@ -322,5 +322,41 @@
     "mph": 20.1,
     "bms_c": 200,
     "date": "2026-11-13"
+  },
+  {
+    "cart_name": "8x 6V Trojan T-105 Lead-Acid to Single 48V 105Ah LiFePO4",
+    "slug": "8x-6v-trojan-t-105-lead-acid-to-single-48v-105ah-lifepo4-range-mph-calculator",
+    "title": "8x 6V Trojan T-105 Lead-Acid to Single 48V 105Ah LiFePO4 Range, BMS Amps & MPH Speed Calculator (2026)",
+    "description": "Calculate exact LiFePO4 driving range (49 miles on 5,376 Wh), top speed (20.1 MPH w/ 20\" tires), 200A/400A BMS sizing, and 285-lb weight drop for 8x 6V Trojan T-105 Lead-Acid to Single 48V 105Ah LiFePO4.",
+    "volts": 48,
+    "ah": 105,
+    "miles": 49,
+    "mph": 20.1,
+    "bms_c": 200,
+    "date": "2026-11-14"
+  },
+  {
+    "cart_name": "6x 6V Lead-Acid to Single 36V 105Ah LiFePO4 Conversion",
+    "slug": "6x-6v-lead-acid-to-single-36v-105ah-lifepo4-conversion-range-mph-calculator",
+    "title": "6x 6V Lead-Acid to Single 36V 105Ah LiFePO4 Conversion Range, BMS Amps & MPH Speed Calculator (2026)",
+    "description": "Calculate exact LiFePO4 driving range (37 miles on 4,032 Wh), top speed (18.2 MPH w/ 20\" tires), 150A/350A BMS sizing, and 245-lb weight drop for 6x 6V Lead-Acid to Single 36V 105Ah LiFePO4 Conversion.",
+    "volts": 36,
+    "ah": 105,
+    "miles": 37,
+    "mph": 18.2,
+    "bms_c": 150,
+    "date": "2026-11-14"
+  },
+  {
+    "cart_name": "48V-to-12V 30A Voltage Reducer & 400A Heavy-Duty Solenoid",
+    "slug": "48v-to-12v-30a-voltage-reducer-400a-heavy-duty-solenoid-range-mph-calculator",
+    "title": "48V-to-12V 30A Voltage Reducer & 400A Heavy-Duty Solenoid Range, BMS Amps & MPH Speed Calculator (2026)",
+    "description": "Calculate exact LiFePO4 driving range (49 miles on 5,376 Wh), top speed (22.6 MPH w/ 21\" tires), 200A/460A BMS sizing, and 285-lb weight drop for 48V-to-12V 30A Voltage Reducer & 400A Heavy-Duty Solenoid.",
+    "volts": 48,
+    "ah": 105,
+    "miles": 49,
+    "mph": 22.6,
+    "bms_c": 200,
+    "date": "2026-11-14"
   }
 ]
