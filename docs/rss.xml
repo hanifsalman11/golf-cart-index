@@ -7,6 +7,24 @@
     <atom:link href="https://hanifsalman11.github.io/golf-cart-index/rss.xml" rel="self" type="application/rss+xml" />
     <atom:link href="https://pubsubhubbub.appspot.com/" rel="hub" />
     <item>
+      <title>Golf Cart Lithium Battery 48V Range, BMS Amps & MPH Speed Calculator (2026)</title>
+      <link>https://hanifsalman11.github.io/golf-cart-index/golf-cart-lithium-battery-48v-range-mph-calculator.html</link>
+      <guid>https://hanifsalman11.github.io/golf-cart-index/golf-cart-lithium-battery-48v-range-mph-calculator.html</guid>
+      <description>Calculate exact LiFePO4 driving range (49 miles on 5,376 Wh), top speed (21.6 MPH w/ 20.5" tires), 200A/460A BMS sizing, and 285-lb weight drop for Golf Cart Lithium Battery 48V.</description>
+    </item>
+    <item>
+      <title>Golf Cart Lithium Battery Conversion Range, BMS Amps & MPH Speed Calculator (2026)</title>
+      <link>https://hanifsalman11.github.io/golf-cart-index/golf-cart-lithium-battery-conversion-range-mph-calculator.html</link>
+      <guid>https://hanifsalman11.github.io/golf-cart-index/golf-cart-lithium-battery-conversion-range-mph-calculator.html</guid>
+      <description>Calculate exact LiFePO4 driving range (49 miles on 5,376 Wh), top speed (21.6 MPH w/ 20.5" tires), 200A/460A BMS sizing, and 285-lb weight drop for Golf Cart Lithium Battery Conversion.</description>
+    </item>
+    <item>
+      <title>Golf Cart Lithium Battery Conversion Kit Range, BMS Amps & MPH Speed Calculator (2026)</title>
+      <link>https://hanifsalman11.github.io/golf-cart-index/golf-cart-lithium-battery-conversion-kit-range-mph-calculator.html</link>
+      <guid>https://hanifsalman11.github.io/golf-cart-index/golf-cart-lithium-battery-conversion-kit-range-mph-calculator.html</guid>
+      <description>Calculate exact LiFePO4 driving range (49 miles on 5,376 Wh), top speed (21.6 MPH w/ 20.5" tires), 200A/460A BMS sizing, and 285-lb weight drop for Golf Cart Lithium Battery Conversion Kit.</description>
+    </item>
+    <item>
       <title>48V-to-12V 30A Voltage Reducer & 400A Heavy-Duty Solenoid Range, BMS Amps & MPH Speed Calculator (2026)</title>
       <link>https://hanifsalman11.github.io/golf-cart-index/48v-to-12v-30a-voltage-reducer-400a-heavy-duty-solenoid-range-mph-calculator.html</link>
       <guid>https://hanifsalman11.github.io/golf-cart-index/48v-to-12v-30a-voltage-reducer-400a-heavy-duty-solenoid-range-mph-calculator.html</guid>
@@ -167,24 +185,6 @@
       <link>https://hanifsalman11.github.io/golf-cart-index/club-car-onward-tempo-48v-lifted-23-tires-105ah-setup-range-mph-calculator.html</link>
       <guid>https://hanifsalman11.github.io/golf-cart-index/club-car-onward-tempo-48v-lifted-23-tires-105ah-setup-range-mph-calculator.html</guid>
       <description>Calculate exact LiFePO4 driving range (42 miles on 5,376 Wh), top speed (27.0 MPH w/ 23" tires), 250A/580A BMS sizing, and 285-lb weight drop for Club Car Onward & Tempo 48V Lifted (23" Tires) 105Ah Setup.</description>
-    </item>
-    <item>
-      <title>Club Car DS 36V to 48V Lithium & High-Speed Motor Conversion Range, BMS Amps & MPH Speed Calculator (2026)</title>
-      <link>https://hanifsalman11.github.io/golf-cart-index/club-car-ds-36v-to-48v-lithium-high-speed-motor-conversion-range-mph-calculator.html</link>
-      <guid>https://hanifsalman11.github.io/golf-cart-index/club-car-ds-36v-to-48v-lithium-high-speed-motor-conversion-range-mph-calculator.html</guid>
-      <description>Calculate exact LiFePO4 driving range (42 miles on 5,376 Wh), top speed (25.6 MPH w/ 22" tires), 200A/460A BMS sizing, and 285-lb weight drop for Club Car DS 36V to 48V Lithium & High-Speed Motor Conversion.</description>
-    </item>
-    <item>
-      <title>Club Car DS 48V 100Ah Drop-In Lithium Battery Upgrade Range, BMS Amps & MPH Speed Calculator (2026)</title>
-      <link>https://hanifsalman11.github.io/golf-cart-index/club-car-ds-48v-100ah-drop-in-lithium-battery-upgrade-range-mph-calculator.html</link>
-      <guid>https://hanifsalman11.github.io/golf-cart-index/club-car-ds-48v-100ah-drop-in-lithium-battery-upgrade-range-mph-calculator.html</guid>
-      <description>Calculate exact LiFePO4 driving range (47 miles on 5,120 Wh), top speed (19.4 MPH w/ 20" tires), 150A/350A BMS sizing, and 285-lb weight drop for Club Car DS 48V 100Ah Drop-In Lithium Battery Upgrade.</description>
-    </item>
-    <item>
-      <title>Club Car Precedent 48V 105Ah LiFePO4 Conversion Range, BMS Amps & MPH Speed Calculator (2026)</title>
-      <link>https://hanifsalman11.github.io/golf-cart-index/club-car-precedent-48v-105ah-lifepo4-conversion-range-mph-calculator.html</link>
-      <guid>https://hanifsalman11.github.io/golf-cart-index/club-car-precedent-48v-105ah-lifepo4-conversion-range-mph-calculator.html</guid>
-      <description>Calculate exact LiFePO4 driving range (49 miles on 5,376 Wh), top speed (20.1 MPH w/ 20" tires), 200A/400A BMS sizing, and 285-lb weight drop for Club Car Precedent 48V 105Ah LiFePO4 Conversion.</description>
     </item>
   </channel>
 </rss>

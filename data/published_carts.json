@@ -358,5 +358,41 @@
     "mph": 22.6,
     "bms_c": 200,
     "date": "2026-11-14"
+  },
+  {
+    "cart_name": "Golf Cart Lithium Battery Conversion Kit",
+    "slug": "golf-cart-lithium-battery-conversion-kit-range-mph-calculator",
+    "title": "Golf Cart Lithium Battery Conversion Kit Range, BMS Amps & MPH Speed Calculator (2026)",
+    "description": "Calculate exact LiFePO4 driving range (49 miles on 5,376 Wh), top speed (21.6 MPH w/ 20.5\" tires), 200A/460A BMS sizing, and 285-lb weight drop for Golf Cart Lithium Battery Conversion Kit.",
+    "volts": 48,
+    "ah": 105,
+    "miles": 49,
+    "mph": 21.6,
+    "bms_c": 200,
+    "date": "2026-11-14"
+  },
+  {
+    "cart_name": "Golf Cart Lithium Battery Conversion",
+    "slug": "golf-cart-lithium-battery-conversion-range-mph-calculator",
+    "title": "Golf Cart Lithium Battery Conversion Range, BMS Amps & MPH Speed Calculator (2026)",
+    "description": "Calculate exact LiFePO4 driving range (49 miles on 5,376 Wh), top speed (21.6 MPH w/ 20.5\" tires), 200A/460A BMS sizing, and 285-lb weight drop for Golf Cart Lithium Battery Conversion.",
+    "volts": 48,
+    "ah": 105,
+    "miles": 49,
+    "mph": 21.6,
+    "bms_c": 200,
+    "date": "2026-11-14"
+  },
+  {
+    "cart_name": "Golf Cart Lithium Battery 48V",
+    "slug": "golf-cart-lithium-battery-48v-range-mph-calculator",
+    "title": "Golf Cart Lithium Battery 48V Range, BMS Amps & MPH Speed Calculator (2026)",
+    "description": "Calculate exact LiFePO4 driving range (49 miles on 5,376 Wh), top speed (21.6 MPH w/ 20.5\" tires), 200A/460A BMS sizing, and 285-lb weight drop for Golf Cart Lithium Battery 48V.",
+    "volts": 48,
+    "ah": 105,
+    "miles": 49,
+    "mph": 21.6,
+    "bms_c": 200,
+    "date": "2026-11-14"
   }
 ]
