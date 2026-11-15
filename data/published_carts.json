@@ -466,5 +466,41 @@
     "mph": 21.6,
     "bms_c": 200,
     "date": "2026-11-15"
+  },
+  {
+    "cart_name": "48V 105Ah Lifepo4 Golf Cart Battery",
+    "slug": "48v-105ah-lifepo4-golf-cart-battery-range-mph-calculator",
+    "title": "48V 105Ah Lifepo4 Golf Cart Battery Range, BMS Amps & MPH Speed Calculator (2026)",
+    "description": "Calculate exact LiFePO4 driving range (49 miles on 5,376 Wh), top speed (21.6 MPH w/ 20.5\" tires), 200A/460A BMS sizing, and 285-lb weight drop for 48V 105Ah Lifepo4 Golf Cart Battery.",
+    "volts": 48,
+    "ah": 105,
+    "miles": 49,
+    "mph": 21.6,
+    "bms_c": 200,
+    "date": "2026-11-15"
+  },
+  {
+    "cart_name": "Vatrer 48V 105Ah Lifepo4 Golf Cart Battery",
+    "slug": "vatrer-48v-105ah-lifepo4-golf-cart-battery-range-mph-calculator",
+    "title": "Vatrer 48V 105Ah Lifepo4 Golf Cart Battery Range, BMS Amps & MPH Speed Calculator (2026)",
+    "description": "Calculate exact LiFePO4 driving range (49 miles on 5,376 Wh), top speed (21.6 MPH w/ 20.5\" tires), 200A/460A BMS sizing, and 285-lb weight drop for Vatrer 48V 105Ah Lifepo4 Golf Cart Battery.",
+    "volts": 48,
+    "ah": 105,
+    "miles": 49,
+    "mph": 21.6,
+    "bms_c": 200,
+    "date": "2026-11-15"
+  },
+  {
+    "cart_name": "Vevor 48V 105Ah Lifepo4 Golf Cart Battery",
+    "slug": "vevor-48v-105ah-lifepo4-golf-cart-battery-range-mph-calculator",
+    "title": "Vevor 48V 105Ah Lifepo4 Golf Cart Battery Range, BMS Amps & MPH Speed Calculator (2026)",
+    "description": "Calculate exact LiFePO4 driving range (49 miles on 5,376 Wh), top speed (21.6 MPH w/ 20.5\" tires), 200A/460A BMS sizing, and 285-lb weight drop for Vevor 48V 105Ah Lifepo4 Golf Cart Battery.",
+    "volts": 48,
+    "ah": 105,
+    "miles": 49,
+    "mph": 21.6,
+    "bms_c": 200,
+    "date": "2026-11-15"
   }
 ]
