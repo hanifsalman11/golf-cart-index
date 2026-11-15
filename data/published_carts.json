@@ -430,5 +430,41 @@
     "mph": 21.6,
     "bms_c": 200,
     "date": "2026-11-14"
+  },
+  {
+    "cart_name": "Golf Cart Lithium Battery Fires",
+    "slug": "golf-cart-lithium-battery-fires-range-mph-calculator",
+    "title": "Golf Cart Lithium Battery Fires Range, BMS Amps & MPH Speed Calculator (2026)",
+    "description": "Calculate exact LiFePO4 driving range (49 miles on 5,376 Wh), top speed (21.6 MPH w/ 20.5\" tires), 200A/460A BMS sizing, and 285-lb weight drop for Golf Cart Lithium Battery Fires.",
+    "volts": 48,
+    "ah": 105,
+    "miles": 49,
+    "mph": 21.6,
+    "bms_c": 200,
+    "date": "2026-11-15"
+  },
+  {
+    "cart_name": "Golf Cart Lithium Battery Replacement",
+    "slug": "golf-cart-lithium-battery-replacement-range-mph-calculator",
+    "title": "Golf Cart Lithium Battery Replacement Range, BMS Amps & MPH Speed Calculator (2026)",
+    "description": "Calculate exact LiFePO4 driving range (49 miles on 5,376 Wh), top speed (21.6 MPH w/ 20.5\" tires), 200A/460A BMS sizing, and 285-lb weight drop for Golf Cart Lithium Battery Replacement.",
+    "volts": 48,
+    "ah": 105,
+    "miles": 49,
+    "mph": 21.6,
+    "bms_c": 200,
+    "date": "2026-11-15"
+  },
+  {
+    "cart_name": "Golf Cart Lithium Battery Not Charging",
+    "slug": "golf-cart-lithium-battery-not-charging-range-mph-calculator",
+    "title": "Golf Cart Lithium Battery Not Charging Range, BMS Amps & MPH Speed Calculator (2026)",
+    "description": "Calculate exact LiFePO4 driving range (49 miles on 5,376 Wh), top speed (21.6 MPH w/ 20.5\" tires), 200A/460A BMS sizing, and 285-lb weight drop for Golf Cart Lithium Battery Not Charging.",
+    "volts": 48,
+    "ah": 105,
+    "miles": 49,
+    "mph": 21.6,
+    "bms_c": 200,
+    "date": "2026-11-15"
   }
 ]
