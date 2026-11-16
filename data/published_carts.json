@@ -502,5 +502,41 @@
     "mph": 21.6,
     "bms_c": 200,
     "date": "2026-11-15"
+  },
+  {
+    "cart_name": "How Many Batteries In A 48 Volt Golf Cart",
+    "slug": "how-many-batteries-in-a-48-volt-golf-cart-range-mph-calculator",
+    "title": "How Many Batteries In A 48 Volt Golf Cart Range, BMS Amps & MPH Speed Calculator (2026)",
+    "description": "Calculate exact LiFePO4 driving range (49 miles on 5,376 Wh), top speed (21.6 MPH w/ 20.5\" tires), 200A/460A BMS sizing, and 285-lb weight drop for How Many Batteries In A 48 Volt Golf Cart.",
+    "volts": 48,
+    "ah": 105,
+    "miles": 49,
+    "mph": 21.6,
+    "bms_c": 200,
+    "date": "2026-11-16"
+  },
+  {
+    "cart_name": "Club Car Precedent Lithium Conversion",
+    "slug": "club-car-precedent-lithium-conversion-range-mph-calculator",
+    "title": "Club Car Precedent Lithium Conversion Range, BMS Amps & MPH Speed Calculator (2026)",
+    "description": "Calculate exact LiFePO4 driving range (49 miles on 5,376 Wh), top speed (21.6 MPH w/ 20.5\" tires), 200A/460A BMS sizing, and 285-lb weight drop for Club Car Precedent Lithium Conversion.",
+    "volts": 48,
+    "ah": 105,
+    "miles": 49,
+    "mph": 21.6,
+    "bms_c": 200,
+    "date": "2026-11-16"
+  },
+  {
+    "cart_name": "Club Car Precedent Lithium Battery",
+    "slug": "club-car-precedent-lithium-battery-range-mph-calculator",
+    "title": "Club Car Precedent Lithium Battery Range, BMS Amps & MPH Speed Calculator (2026)",
+    "description": "Calculate exact LiFePO4 driving range (49 miles on 5,376 Wh), top speed (21.6 MPH w/ 20.5\" tires), 200A/460A BMS sizing, and 285-lb weight drop for Club Car Precedent Lithium Battery.",
+    "volts": 48,
+    "ah": 105,
+    "miles": 49,
+    "mph": 21.6,
+    "bms_c": 200,
+    "date": "2026-11-16"
   }
 ]
