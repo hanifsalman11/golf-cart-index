@@ -574,5 +574,41 @@
     "mph": 21.6,
     "bms_c": 200,
     "date": "2026-11-16"
+  },
+  {
+    "cart_name": "Club Car Precedent Lithium",
+    "slug": "club-car-precedent-lithium-range-mph-calculator",
+    "title": "Club Car Precedent Lithium Range, BMS Amps & MPH Speed Calculator (2026)",
+    "description": "Calculate exact LiFePO4 driving range (49 miles on 5,376 Wh), top speed (21.6 MPH w/ 20.5\" tires), 200A/460A BMS sizing, and 285-lb weight drop for Club Car Precedent Lithium.",
+    "volts": 48,
+    "ah": 105,
+    "miles": 49,
+    "mph": 21.6,
+    "bms_c": 200,
+    "date": "2026-11-17"
+  },
+  {
+    "cart_name": "Club Car Precedent Lithium Battery Upgrade",
+    "slug": "club-car-precedent-lithium-battery-upgrade-range-mph-calculator",
+    "title": "Club Car Precedent Lithium Battery Upgrade Range, BMS Amps & MPH Speed Calculator (2026)",
+    "description": "Calculate exact LiFePO4 driving range (49 miles on 5,376 Wh), top speed (21.6 MPH w/ 20.5\" tires), 200A/460A BMS sizing, and 285-lb weight drop for Club Car Precedent Lithium Battery Upgrade.",
+    "volts": 48,
+    "ah": 105,
+    "miles": 49,
+    "mph": 21.6,
+    "bms_c": 200,
+    "date": "2026-11-17"
+  },
+  {
+    "cart_name": "Club Car Precedent Lithium Upgrade",
+    "slug": "club-car-precedent-lithium-upgrade-range-mph-calculator",
+    "title": "Club Car Precedent Lithium Upgrade Range, BMS Amps & MPH Speed Calculator (2026)",
+    "description": "Calculate exact LiFePO4 driving range (49 miles on 5,376 Wh), top speed (21.6 MPH w/ 20.5\" tires), 200A/460A BMS sizing, and 285-lb weight drop for Club Car Precedent Lithium Upgrade.",
+    "volts": 48,
+    "ah": 105,
+    "miles": 49,
+    "mph": 21.6,
+    "bms_c": 200,
+    "date": "2026-11-17"
   }
 ]
