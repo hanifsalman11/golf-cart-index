@@ -610,5 +610,41 @@
     "mph": 21.6,
     "bms_c": 200,
     "date": "2026-11-17"
+  },
+  {
+    "cart_name": "Ezgo Txt Lithium Conversion Kit",
+    "slug": "ezgo-txt-lithium-conversion-kit-range-mph-calculator",
+    "title": "Ezgo Txt Lithium Conversion Kit Range, BMS Amps & MPH Speed Calculator (2026)",
+    "description": "Calculate exact LiFePO4 driving range (49 miles on 5,376 Wh), top speed (21.6 MPH w/ 20.5\" tires), 200A/460A BMS sizing, and 285-lb weight drop for Ezgo Txt Lithium Conversion Kit.",
+    "volts": 48,
+    "ah": 105,
+    "miles": 49,
+    "mph": 21.6,
+    "bms_c": 200,
+    "date": "2026-11-17"
+  },
+  {
+    "cart_name": "Ezgo Txt Lithium Conversion Wiring Diagram",
+    "slug": "ezgo-txt-lithium-conversion-wiring-diagram-range-mph-calculator",
+    "title": "Ezgo Txt Lithium Conversion Wiring Diagram Range, BMS Amps & MPH Speed Calculator (2026)",
+    "description": "Calculate exact LiFePO4 driving range (49 miles on 5,376 Wh), top speed (21.6 MPH w/ 20.5\" tires), 200A/460A BMS sizing, and 285-lb weight drop for Ezgo Txt Lithium Conversion Wiring Diagram.",
+    "volts": 48,
+    "ah": 105,
+    "miles": 49,
+    "mph": 21.6,
+    "bms_c": 200,
+    "date": "2026-11-17"
+  },
+  {
+    "cart_name": "Ezgo Txt Lithium Conversion Reed Switch",
+    "slug": "ezgo-txt-lithium-conversion-reed-switch-range-mph-calculator",
+    "title": "Ezgo Txt Lithium Conversion Reed Switch Range, BMS Amps & MPH Speed Calculator (2026)",
+    "description": "Calculate exact LiFePO4 driving range (49 miles on 5,376 Wh), top speed (21.6 MPH w/ 20.5\" tires), 200A/460A BMS sizing, and 285-lb weight drop for Ezgo Txt Lithium Conversion Reed Switch.",
+    "volts": 48,
+    "ah": 105,
+    "miles": 49,
+    "mph": 21.6,
+    "bms_c": 200,
+    "date": "2026-11-17"
   }
 ]
