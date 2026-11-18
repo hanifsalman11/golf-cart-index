@@ -682,5 +682,41 @@
     "mph": 21.6,
     "bms_c": 200,
     "date": "2026-11-18"
+  },
+  {
+    "cart_name": "Ezgo Txt 36V Lithium Conversion",
+    "slug": "ezgo-txt-36v-lithium-conversion-range-mph-calculator",
+    "title": "Ezgo Txt 36V Lithium Conversion Range, BMS Amps & MPH Speed Calculator (2026)",
+    "description": "Calculate exact LiFePO4 driving range (37 miles on 4,032 Wh), top speed (21.6 MPH w/ 20.5\" tires), 200A/460A BMS sizing, and 245-lb weight drop for Ezgo Txt 36V Lithium Conversion.",
+    "volts": 36,
+    "ah": 105,
+    "miles": 37,
+    "mph": 21.6,
+    "bms_c": 200,
+    "date": "2026-11-18"
+  },
+  {
+    "cart_name": "Ezgo Txt 48V Lithium Conversion",
+    "slug": "ezgo-txt-48v-lithium-conversion-range-mph-calculator",
+    "title": "Ezgo Txt 48V Lithium Conversion Range, BMS Amps & MPH Speed Calculator (2026)",
+    "description": "Calculate exact LiFePO4 driving range (49 miles on 5,376 Wh), top speed (21.6 MPH w/ 20.5\" tires), 200A/460A BMS sizing, and 285-lb weight drop for Ezgo Txt 48V Lithium Conversion.",
+    "volts": 48,
+    "ah": 105,
+    "miles": 49,
+    "mph": 21.6,
+    "bms_c": 200,
+    "date": "2026-11-18"
+  },
+  {
+    "cart_name": "Ezgo Txt Lithium Battery Conversion Kit",
+    "slug": "ezgo-txt-lithium-battery-conversion-kit-range-mph-calculator",
+    "title": "Ezgo Txt Lithium Battery Conversion Kit Range, BMS Amps & MPH Speed Calculator (2026)",
+    "description": "Calculate exact LiFePO4 driving range (49 miles on 5,376 Wh), top speed (21.6 MPH w/ 20.5\" tires), 200A/460A BMS sizing, and 285-lb weight drop for Ezgo Txt Lithium Battery Conversion Kit.",
+    "volts": 48,
+    "ah": 105,
+    "miles": 49,
+    "mph": 21.6,
+    "bms_c": 200,
+    "date": "2026-11-18"
   }
 ]
