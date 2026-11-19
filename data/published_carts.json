@@ -718,5 +718,29 @@
     "mph": 21.6,
     "bms_c": 200,
     "date": "2026-11-18"
+  },
+  {
+    "cart_name": "Ezgo Txt 36V Lithium Conversion Kit",
+    "slug": "ezgo-txt-36v-lithium-conversion-kit-range-mph-calculator",
+    "title": "Ezgo Txt 36V Lithium Conversion Kit Range, BMS Amps & MPH Speed Calculator (2026)",
+    "description": "Calculate exact LiFePO4 driving range (37 miles on 4,032 Wh), top speed (21.6 MPH w/ 20.5\" tires), 200A/460A BMS sizing, and 245-lb weight drop for Ezgo Txt 36V Lithium Conversion Kit.",
+    "volts": 36,
+    "ah": 105,
+    "miles": 37,
+    "mph": 21.6,
+    "bms_c": 200,
+    "date": "2026-11-19"
+  },
+  {
+    "cart_name": "Club Car Precedent 36V 105Ah LiFePO4 (300A Controller) w/ 18.5\" Tires",
+    "slug": "club-car-precedent-36v-105ah-lifepo4-300a-controller-w-185-tires-range-mph-calculator",
+    "title": "Club Car Precedent 36V 105Ah LiFePO4 (300A Controller) w/ 18.5\" Tires Range, BMS Amps & MPH Speed Calculator (2026)",
+    "description": "Calculate exact LiFePO4 driving range (37 miles on 4,032 Wh), top speed (16.8 MPH w/ 18.5\" tires), 150A/350A BMS sizing, and 245-lb weight drop for Club Car Precedent 36V 105Ah LiFePO4 (300A Controller) w/ 18.5\" Tires.",
+    "volts": 36,
+    "ah": 105,
+    "miles": 37,
+    "mph": 16.8,
+    "bms_c": 150,
+    "date": "2026-11-19"
   }
 ]
