@@ -754,5 +754,17 @@
     "mph": 18.6,
     "bms_c": 150,
     "date": "2026-11-19"
+  },
+  {
+    "cart_name": "Club Car Precedent 36V 105Ah LiFePO4 (300A Controller) w/ 22\" Tires",
+    "slug": "club-car-precedent-36v-105ah-lifepo4-300a-controller-w-22-tires-range-mph-calculator",
+    "title": "Club Car Precedent 36V 105Ah LiFePO4 (300A Controller) w/ 22\" Tires Range, BMS Amps & MPH Speed Calculator (2026)",
+    "description": "Calculate exact LiFePO4 driving range (31 miles on 4,032 Wh), top speed (20.0 MPH w/ 22\" tires), 150A/350A BMS sizing, and 245-lb weight drop for Club Car Precedent 36V 105Ah LiFePO4 (300A Controller) w/ 22\" Tires.",
+    "volts": 36,
+    "ah": 105,
+    "miles": 31,
+    "mph": 20.0,
+    "bms_c": 150,
+    "date": "2026-11-20"
   }
 ]
