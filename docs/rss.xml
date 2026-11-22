@@ -7,6 +7,12 @@
     <atom:link href="https://hanifsalman11.github.io/golf-cart-index/rss.xml" rel="self" type="application/rss+xml" />
     <atom:link href="https://pubsubhubbub.appspot.com/" rel="hub" />
     <item>
+      <title>Club Car Precedent 48V 100Ah LiFePO4 (350A Controller) w/ 22" Tires Range, BMS Amps & MPH Speed Calculator (2026)</title>
+      <link>https://hanifsalman11.github.io/golf-cart-index/club-car-precedent-48v-100ah-lifepo4-350a-controller-w-22-tires-range-mph-calculator.html</link>
+      <guid>https://hanifsalman11.github.io/golf-cart-index/club-car-precedent-48v-100ah-lifepo4-350a-controller-w-22-tires-range-mph-calculator.html</guid>
+      <description>Calculate exact LiFePO4 driving range (40 miles on 5,120 Wh), top speed (22.6 MPH w/ 22" tires), 200A/400A BMS sizing, and 285-lb weight drop for Club Car Precedent 48V 100Ah LiFePO4 (350A Controller) w/ 22" Tires.</description>
+    </item>
+    <item>
       <title>Club Car Precedent 48V 100Ah LiFePO4 (350A Controller) w/ 20.5" Tires Range, BMS Amps & MPH Speed Calculator (2026)</title>
       <link>https://hanifsalman11.github.io/golf-cart-index/club-car-precedent-48v-100ah-lifepo4-350a-controller-w-205-tires-range-mph-calculator.html</link>
       <guid>https://hanifsalman11.github.io/golf-cart-index/club-car-precedent-48v-100ah-lifepo4-350a-controller-w-205-tires-range-mph-calculator.html</guid>
@@ -179,12 +185,6 @@
       <link>https://hanifsalman11.github.io/golf-cart-index/golf-cart-lithium-battery-not-charging-range-mph-calculator.html</link>
       <guid>https://hanifsalman11.github.io/golf-cart-index/golf-cart-lithium-battery-not-charging-range-mph-calculator.html</guid>
       <description>Calculate exact LiFePO4 driving range (49 miles on 5,376 Wh), top speed (21.6 MPH w/ 20.5" tires), 200A/460A BMS sizing, and 285-lb weight drop for Golf Cart Lithium Battery Not Charging.</description>
-    </item>
-    <item>
-      <title>Golf Cart Lithium Battery Replacement Range, BMS Amps & MPH Speed Calculator (2026)</title>
-      <link>https://hanifsalman11.github.io/golf-cart-index/golf-cart-lithium-battery-replacement-range-mph-calculator.html</link>
-      <guid>https://hanifsalman11.github.io/golf-cart-index/golf-cart-lithium-battery-replacement-range-mph-calculator.html</guid>
-      <description>Calculate exact LiFePO4 driving range (49 miles on 5,376 Wh), top speed (21.6 MPH w/ 20.5" tires), 200A/460A BMS sizing, and 285-lb weight drop for Golf Cart Lithium Battery Replacement.</description>
     </item>
   </channel>
 </rss>
