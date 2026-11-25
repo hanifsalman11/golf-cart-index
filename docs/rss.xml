@@ -7,6 +7,24 @@
     <atom:link href="https://hanifsalman11.github.io/golf-cart-index/rss.xml" rel="self" type="application/rss+xml" />
     <atom:link href="https://pubsubhubbub.appspot.com/" rel="hub" />
     <item>
+      <title>Golf Cart Lithium Battery Fire Range, BMS Amps & MPH Speed Calculator (2026)</title>
+      <link>https://hanifsalman11.github.io/golf-cart-index/golf-cart-lithium-battery-fire-range-mph-calculator.html</link>
+      <guid>https://hanifsalman11.github.io/golf-cart-index/golf-cart-lithium-battery-fire-range-mph-calculator.html</guid>
+      <description>Calculate exact LiFePO4 driving range (49 miles on 5,376 Wh), top speed (21.6 MPH w/ 20.5" tires), 200A/460A BMS sizing, and 285-lb weight drop for Golf Cart Lithium Battery Fire.</description>
+    </item>
+    <item>
+      <title>Golf Cart Lithium Battery Heater Range, BMS Amps & MPH Speed Calculator (2026)</title>
+      <link>https://hanifsalman11.github.io/golf-cart-index/golf-cart-lithium-battery-heater-range-mph-calculator.html</link>
+      <guid>https://hanifsalman11.github.io/golf-cart-index/golf-cart-lithium-battery-heater-range-mph-calculator.html</guid>
+      <description>Calculate exact LiFePO4 driving range (49 miles on 5,376 Wh), top speed (21.6 MPH w/ 20.5" tires), 200A/460A BMS sizing, and 285-lb weight drop for Golf Cart Lithium Battery Heater.</description>
+    </item>
+    <item>
+      <title>Golf Cart Lithium Battery 36V Range, BMS Amps & MPH Speed Calculator (2026)</title>
+      <link>https://hanifsalman11.github.io/golf-cart-index/golf-cart-lithium-battery-36v-range-mph-calculator.html</link>
+      <guid>https://hanifsalman11.github.io/golf-cart-index/golf-cart-lithium-battery-36v-range-mph-calculator.html</guid>
+      <description>Calculate exact LiFePO4 driving range (37 miles on 4,032 Wh), top speed (21.6 MPH w/ 20.5" tires), 200A/460A BMS sizing, and 245-lb weight drop for Golf Cart Lithium Battery 36V.</description>
+    </item>
+    <item>
       <title>Club Car Precedent 48V 105Ah LiFePO4 (600A Navitas AC) w/ 18.5" Tires Range, BMS Amps & MPH Speed Calculator (2026)</title>
       <link>https://hanifsalman11.github.io/golf-cart-index/club-car-precedent-48v-105ah-lifepo4-600a-navitas-ac-w-185-tires-range-mph-calculator.html</link>
       <guid>https://hanifsalman11.github.io/golf-cart-index/club-car-precedent-48v-105ah-lifepo4-600a-navitas-ac-w-185-tires-range-mph-calculator.html</guid>
@@ -167,24 +185,6 @@
       <link>https://hanifsalman11.github.io/golf-cart-index/club-car-precedent-lithium-range-mph-calculator.html</link>
       <guid>https://hanifsalman11.github.io/golf-cart-index/club-car-precedent-lithium-range-mph-calculator.html</guid>
       <description>Calculate exact LiFePO4 driving range (49 miles on 5,376 Wh), top speed (21.6 MPH w/ 20.5" tires), 200A/460A BMS sizing, and 285-lb weight drop for Club Car Precedent Lithium.</description>
-    </item>
-    <item>
-      <title>Club Car Precedent Lithium Battery Install Range, BMS Amps & MPH Speed Calculator (2026)</title>
-      <link>https://hanifsalman11.github.io/golf-cart-index/club-car-precedent-lithium-battery-install-range-mph-calculator.html</link>
-      <guid>https://hanifsalman11.github.io/golf-cart-index/club-car-precedent-lithium-battery-install-range-mph-calculator.html</guid>
-      <description>Calculate exact LiFePO4 driving range (49 miles on 5,376 Wh), top speed (21.6 MPH w/ 20.5" tires), 200A/460A BMS sizing, and 285-lb weight drop for Club Car Precedent Lithium Battery Install.</description>
-    </item>
-    <item>
-      <title>Club Car Precedent Lithium Battery Kit Range, BMS Amps & MPH Speed Calculator (2026)</title>
-      <link>https://hanifsalman11.github.io/golf-cart-index/club-car-precedent-lithium-battery-kit-range-mph-calculator.html</link>
-      <guid>https://hanifsalman11.github.io/golf-cart-index/club-car-precedent-lithium-battery-kit-range-mph-calculator.html</guid>
-      <description>Calculate exact LiFePO4 driving range (49 miles on 5,376 Wh), top speed (21.6 MPH w/ 20.5" tires), 200A/460A BMS sizing, and 285-lb weight drop for Club Car Precedent Lithium Battery Kit.</description>
-    </item>
-    <item>
-      <title>Club Car Precedent Lithium Swap Range, BMS Amps & MPH Speed Calculator (2026)</title>
-      <link>https://hanifsalman11.github.io/golf-cart-index/club-car-precedent-lithium-swap-range-mph-calculator.html</link>
-      <guid>https://hanifsalman11.github.io/golf-cart-index/club-car-precedent-lithium-swap-range-mph-calculator.html</guid>
-      <description>Calculate exact LiFePO4 driving range (49 miles on 5,376 Wh), top speed (21.6 MPH w/ 20.5" tires), 200A/460A BMS sizing, and 285-lb weight drop for Club Car Precedent Lithium Swap.</description>
     </item>
   </channel>
 </rss>

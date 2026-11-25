@@ -898,5 +898,41 @@
     "mph": 24.8,
     "bms_c": 250,
     "date": "2026-11-25"
+  },
+  {
+    "cart_name": "Golf Cart Lithium Battery 36V",
+    "slug": "golf-cart-lithium-battery-36v-range-mph-calculator",
+    "title": "Golf Cart Lithium Battery 36V Range, BMS Amps & MPH Speed Calculator (2026)",
+    "description": "Calculate exact LiFePO4 driving range (37 miles on 4,032 Wh), top speed (21.6 MPH w/ 20.5\" tires), 200A/460A BMS sizing, and 245-lb weight drop for Golf Cart Lithium Battery 36V.",
+    "volts": 36,
+    "ah": 105,
+    "miles": 37,
+    "mph": 21.6,
+    "bms_c": 200,
+    "date": "2026-11-25"
+  },
+  {
+    "cart_name": "Golf Cart Lithium Battery Heater",
+    "slug": "golf-cart-lithium-battery-heater-range-mph-calculator",
+    "title": "Golf Cart Lithium Battery Heater Range, BMS Amps & MPH Speed Calculator (2026)",
+    "description": "Calculate exact LiFePO4 driving range (49 miles on 5,376 Wh), top speed (21.6 MPH w/ 20.5\" tires), 200A/460A BMS sizing, and 285-lb weight drop for Golf Cart Lithium Battery Heater.",
+    "volts": 48,
+    "ah": 105,
+    "miles": 49,
+    "mph": 21.6,
+    "bms_c": 200,
+    "date": "2026-11-25"
+  },
+  {
+    "cart_name": "Golf Cart Lithium Battery Fire",
+    "slug": "golf-cart-lithium-battery-fire-range-mph-calculator",
+    "title": "Golf Cart Lithium Battery Fire Range, BMS Amps & MPH Speed Calculator (2026)",
+    "description": "Calculate exact LiFePO4 driving range (49 miles on 5,376 Wh), top speed (21.6 MPH w/ 20.5\" tires), 200A/460A BMS sizing, and 285-lb weight drop for Golf Cart Lithium Battery Fire.",
+    "volts": 48,
+    "ah": 105,
+    "miles": 49,
+    "mph": 21.6,
+    "bms_c": 200,
+    "date": "2026-11-25"
   }
 ]
