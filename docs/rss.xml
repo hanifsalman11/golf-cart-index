@@ -7,6 +7,12 @@
     <atom:link href="https://hanifsalman11.github.io/golf-cart-index/rss.xml" rel="self" type="application/rss+xml" />
     <atom:link href="https://pubsubhubbub.appspot.com/" rel="hub" />
     <item>
+      <title>Club Car Precedent 48V 105Ah LiFePO4 (600A Navitas AC) w/ 22" Tires Range, BMS Amps & MPH Speed Calculator (2026)</title>
+      <link>https://hanifsalman11.github.io/golf-cart-index/club-car-precedent-48v-105ah-lifepo4-600a-navitas-ac-w-22-tires-range-mph-calculator.html</link>
+      <guid>https://hanifsalman11.github.io/golf-cart-index/club-car-precedent-48v-105ah-lifepo4-600a-navitas-ac-w-22-tires-range-mph-calculator.html</guid>
+      <description>Calculate exact LiFePO4 driving range (42 miles on 5,376 Wh), top speed (29.5 MPH w/ 22" tires), 250A/690A BMS sizing, and 285-lb weight drop for Club Car Precedent 48V 105Ah LiFePO4 (600A Navitas AC) w/ 22" Tires.</description>
+    </item>
+    <item>
       <title>Club Car Precedent 48V 105Ah LiFePO4 (600A Navitas AC) w/ 20.5" Tires Range, BMS Amps & MPH Speed Calculator (2026)</title>
       <link>https://hanifsalman11.github.io/golf-cart-index/club-car-precedent-48v-105ah-lifepo4-600a-navitas-ac-w-205-tires-range-mph-calculator.html</link>
       <guid>https://hanifsalman11.github.io/golf-cart-index/club-car-precedent-48v-105ah-lifepo4-600a-navitas-ac-w-205-tires-range-mph-calculator.html</guid>
@@ -179,12 +185,6 @@
       <link>https://hanifsalman11.github.io/golf-cart-index/ezgo-txt-lithium-conversion-kit-range-mph-calculator.html</link>
       <guid>https://hanifsalman11.github.io/golf-cart-index/ezgo-txt-lithium-conversion-kit-range-mph-calculator.html</guid>
       <description>Calculate exact LiFePO4 driving range (49 miles on 5,376 Wh), top speed (21.6 MPH w/ 20.5" tires), 200A/460A BMS sizing, and 285-lb weight drop for Ezgo Txt Lithium Conversion Kit.</description>
-    </item>
-    <item>
-      <title>Club Car Precedent Lithium Upgrade Range, BMS Amps & MPH Speed Calculator (2026)</title>
-      <link>https://hanifsalman11.github.io/golf-cart-index/club-car-precedent-lithium-upgrade-range-mph-calculator.html</link>
-      <guid>https://hanifsalman11.github.io/golf-cart-index/club-car-precedent-lithium-upgrade-range-mph-calculator.html</guid>
-      <description>Calculate exact LiFePO4 driving range (49 miles on 5,376 Wh), top speed (21.6 MPH w/ 20.5" tires), 200A/460A BMS sizing, and 285-lb weight drop for Club Car Precedent Lithium Upgrade.</description>
     </item>
   </channel>
 </rss>

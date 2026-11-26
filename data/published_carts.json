@@ -958,5 +958,17 @@
     "mph": 27.5,
     "bms_c": 250,
     "date": "2026-11-26"
+  },
+  {
+    "cart_name": "Club Car Precedent 48V 105Ah LiFePO4 (600A Navitas AC) w/ 22\" Tires",
+    "slug": "club-car-precedent-48v-105ah-lifepo4-600a-navitas-ac-w-22-tires-range-mph-calculator",
+    "title": "Club Car Precedent 48V 105Ah LiFePO4 (600A Navitas AC) w/ 22\" Tires Range, BMS Amps & MPH Speed Calculator (2026)",
+    "description": "Calculate exact LiFePO4 driving range (42 miles on 5,376 Wh), top speed (29.5 MPH w/ 22\" tires), 250A/690A BMS sizing, and 285-lb weight drop for Club Car Precedent 48V 105Ah LiFePO4 (600A Navitas AC) w/ 22\" Tires.",
+    "volts": 48,
+    "ah": 105,
+    "miles": 42,
+    "mph": 29.5,
+    "bms_c": 250,
+    "date": "2026-11-26"
   }
 ]
