@@ -982,5 +982,17 @@
     "mph": 30.8,
     "bms_c": 250,
     "date": "2026-11-27"
+  },
+  {
+    "cart_name": "Club Car Precedent 72V 100Ah LiFePO4 High-Speed Setup w/ 18.5\" Tires",
+    "slug": "club-car-precedent-72v-100ah-lifepo4-high-speed-setup-w-185-tires-range-mph-calculator",
+    "title": "Club Car Precedent 72V 100Ah LiFePO4 High-Speed Setup w/ 18.5\" Tires Range, BMS Amps & MPH Speed Calculator (2026)",
+    "description": "Calculate exact LiFePO4 driving range (70 miles on 7,680 Wh), top speed (26.6 MPH w/ 18.5\" tires), 250A/690A BMS sizing, and 285-lb weight drop for Club Car Precedent 72V 100Ah LiFePO4 High-Speed Setup w/ 18.5\" Tires.",
+    "volts": 72,
+    "ah": 100,
+    "miles": 70,
+    "mph": 26.6,
+    "bms_c": 250,
+    "date": "2026-11-27"
   }
 ]
